@@ -1,6 +1,6 @@
 # dynamic-tabs-ngjs
 
-Feasibility Study of a proposed component's behavior
+Feasibility study of a proposed component's behavior
 
 Angular.js dynamic tabs
 
