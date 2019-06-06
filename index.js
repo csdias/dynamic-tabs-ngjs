@@ -1,8 +1,9 @@
 import './style.css';
 import angular from 'angular';
-import ngRoute from 'angular-route'
+//import ngRoute from 'angular-route'
 
-var app = angular.module('myApp', [ngRoute]);
+//var app = angular.module('myApp', [ngRoute]);
+var app = angular.module('myApp', []);
 
 app.controller('participanteController', function ($scope, $location, $http) {
 
